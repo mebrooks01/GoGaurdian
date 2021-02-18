@@ -30,8 +30,9 @@ window:close()
 ```
 then hit enter and boom the window will close and GoGuardian is gone. But you will need to do this everytime you start your chromebook.
 
-## Reinazlite Chrome OS 
-**This is a place holder and needs to be rewriten to be more user freindly**
+## Reinazlite Chrome OS
+ 
+__**This is a place holder and needs to be rewriten to be more user freindly**__
 
 ### Step 1. Create a Bootdrive
 
