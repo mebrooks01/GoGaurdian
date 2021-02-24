@@ -96,7 +96,7 @@ Now that we have set everything up you can turn off the Chromebook and plug in t
   
 This will be an OS running Linux, and will not have GoGuardian. If you ever want to go back to ChromeOS, just turn off the computer, remove the USB drive, and boom, you're back.
 
-### Fuck Chromebooks and get a windows system
+### Fuck Chromebooks and get a Windows system
 
 If neither of these worked this is your last option.
 
